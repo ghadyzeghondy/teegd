@@ -1,0 +1,11 @@
+Model Information:
+* title:	Soccer player keychain by: Joaquín Cohen
+* source:	https://sketchfab.com/3d-models/soccer-player-keychain-by-joaquin-cohen-d3dec1ac16d24a22be5ae9db8b3c7102
+* author:	Colegio Isaac Rabin (https://sketchfab.com/feria3d2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Soccer player keychain by: Joaquín Cohen" (https://sketchfab.com/3d-models/soccer-player-keychain-by-joaquin-cohen-d3dec1ac16d24a22be5ae9db8b3c7102) by Colegio Isaac Rabin (https://sketchfab.com/feria3d2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
